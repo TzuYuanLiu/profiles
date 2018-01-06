@@ -1,23 +1,17 @@
 {
-  "username": "johndoe91",
-  "name": "John Doe",
+  "username": "TzuYuanLiu",
+  "name": "Nora Liu",
   "projects": [
-    "http://github.com/john91doe/profiles",
-    "http://github.com/john91doe/i-learn-css-flexbox",
-    "http://github.com/john91doe/my-webpage"
+    "https://wizardamigos-codecamp2018.herokuapp.com/landingPage"
   ],
   "background":[
-    "A graduate student from NTUT Interaction Design Dept",
-    "Front-end",
-    "Javascript 1 year",
-    "HTML 2 months",
-    "CSS 3 months",
-    "SASS 2 months"
+    "Frontend Developer",
+    "Digital 3D artist"
   ],
   "interests":[
-    "JavaScript (how to build web, desktop and mobile apps)",
-    "Remote Gigs/Jobs (forming a local agency/cooperative (as an app)"
+    "I would like to know more about P2P internet, how to build blockchain app",
+    "My partner Wayne Chiu and I are gonna start our mining machine business, people can help out us and get paid",
+    "Build a gamification platform for amigos to see the progress of skill tree and earn the wizardAmigos crypto coin"
   ],
-  "twitter": "http://twitter.com/johndoe91",
-  "github": "http://github.com/john91doe"
+  "github": "https://github.com/TzuYuanLiu/"
 }
